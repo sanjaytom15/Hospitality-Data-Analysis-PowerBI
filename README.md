@@ -14,6 +14,7 @@ The dashboard Provide Insights to the Revenue Team in Hospitality Domain:
 5. Revenue started trending down in the last 4days of the month, falling by 28.17%.
 6. 13.59% of revenue realized from Mumbai. June month realized the highest cancellation rate (25.09%), which dipped the Occupancy Rate 0.24% than the average.
 7. Atliq Blu had the highest Average Rating and was 72.54% higher than Atliq Seasons, which had the lowest Average Rating at 2.29.
+
 Created following KPI's using DAX -
 
 1. Total Bookings
